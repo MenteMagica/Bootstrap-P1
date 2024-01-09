@@ -1,0 +1,35 @@
+.title1{
+    padding-bottom: 20px;
+}
+.card{
+    height: 300px;
+}
+.price{
+    color: green;
+    font-weight: bold;
+}
+.card2{
+    height: 160px;
+}
+.card3{
+    width: 350px;
+    height: 500px;
+}
+.card4{
+    margin-top: 30px;
+    height: 200px;
+}
+#headset{
+    width: 349px;
+    margin-right: 0;
+}
+.oferta{
+    color: blue;
+}
+.price-red{
+    color: red;
+    text-decoration: line-through;
+}
+.footer{
+    margin-top: 100px;
+}
